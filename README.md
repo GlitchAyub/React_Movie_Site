@@ -1,10 +1,9 @@
-Api_key='3875d85a05ca51ba993cf25db0d2adc7'
-url='https://api.themoviedb.org/3/movie/550?api_key=3875d85a05ca51ba993cf25db0d2adc7'
+<h1 align="center">Hi 👋, I'm Ayubraj Thapa</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
-Discover='https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=3875d85a05ca51ba993cf25db0d2adc7'
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-search='https://api.themoviedb.org/3/search/movie?api_key=3875d85a05ca51ba993cf25db0d2adc7&query=flash'
-
-imageurl='https://api.themoviedb.org/3/movie/550/images?api_key=3875d85a05ca51ba993cf25db0d2adc7&language=en-US&include_image_language=en,null'
-
-poster_path='https://image.tmdb.org/t/p/w500'
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
