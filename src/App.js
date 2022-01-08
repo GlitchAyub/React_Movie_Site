@@ -3,6 +3,7 @@ import{useEffect,useState,useRef} from 'react'
 import Movie from './components/Movie';
 import HomeIcon from '@mui/icons-material/Home';
 import SearchIcon from '@mui/icons-material/Search';
+import { Link } from "react-router-dom";
 
 
 function App() {
@@ -39,11 +40,13 @@ function App() {
       <input className='header_search' type='search' placeholder='Search' ref={searchEl}></input>
     </div>
     </form>
+    <Link to="/"><HomeIcon/></Link>
   
-    <HomeIcon/>
+    
 
   </div>
   <div className='movie_container'>
+    
     {movies.map((movie)=>(
       <Movie key={movie.id} {...movie}/>
     ))}
