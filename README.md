@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayubraj Thapa</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<h2 align="center">How to Run</h2>
+<h3 align="center">Npm Install</h3>
+<h3 align="center">cd to Main DIR </h3>
+<h3 align="center">npm start</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
