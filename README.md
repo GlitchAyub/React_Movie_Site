@@ -5,7 +5,7 @@
 <h3 align="center">cd to Main DIR </h3>
 <h3 align="center">npm start</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
